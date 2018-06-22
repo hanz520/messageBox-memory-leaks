@@ -10,6 +10,8 @@
 
 - step 6: click `go page1` to switch router to page 1, take a snapshot again. (  now, we have 23 VueComponets, the componet of page 1 is not destroyed  )
 
+英语水平有限，所以用中文再做一次描述:
+
 - 步骤一： 打开demo, 自动加载home页面
 
 - 步骤二： 打开devtools profiles, 拍一张内存快照 （这个时候有6个 vue组件）
